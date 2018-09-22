@@ -176,3 +176,8 @@ Practice like you compete.
 ### Markdown and Related Tools
 
 - [GitPitch](https://gitpitch.com/) hosted markdown presentations
+
+
+## Contributing
+
+Contributions, corrections, enhancements are welcome via pull request.
