@@ -168,6 +168,7 @@ Practice like you compete.
 ## Training
 
 - [Onboarding Programmers](https://github.com/Team997Coders/TrainingResources) links to a [presentation](https://gitpitch.com/Team997Coders/BootCamp/master?grs=github&t=sky) that Team 997 uses to onboard their coders.  They use gradle and [VS Code](https://code.visualstudio.com/) as their development platform of choice.
+- [FRC Team 3255's Java Tutorial](https://github.com/FRCTeam3255/FRC-Java-Tutorial) links to a presentation explaining how to code FRC solutions in Java using VS Code.
 
 ## Resources of Resources
 
