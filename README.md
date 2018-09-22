@@ -167,7 +167,7 @@ Practice like you compete.
 
 ## Training
 
-- [Onboarding Programmers](https://github.com/Team997Coders/TrainingResources) links to a [presentation](https://gitpitch.com/Team997Coders/BootCamp/master?grs=github&t=sky) that Team 997 uses to onboard their coders.  They use GradelRIO (I believe) and [VS Code](https://code.visualstudio.com/) as their development platform of choice.
+- [Onboarding Programmers](https://github.com/Team997Coders/TrainingResources) links to a [presentation](https://gitpitch.com/Team997Coders/BootCamp/master?grs=github&t=sky) that Team 997 uses to onboard their coders.  They use gradle and [VS Code](https://code.visualstudio.com/) as their development platform of choice.
 
 ## Resources of Resources
 
