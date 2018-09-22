@@ -141,6 +141,7 @@ Some resources to help you get started are:
 - [FRC Java JUnit template](https://github.com/246overclocked/frc-java-junit-template) is a JUnit and Ant template
 - [Older instructions on installing code to the RoboRIO](https://willhaley.com/blog/frc-roborio-java/)
 - [FRC Team 1360](https://github.com/FRC1360/Stronghold2016) is an example of a team using [Travis CI](https://travis-ci.org/FRC1360/Stronghold2016) to run CI on their FRC solution.
+- [FRC Team 5190 Green Hope Robotics](https://github.com/5190GreenHopeRobotics/2018Bot) uses [Azure Pipelines](https://dev.azure.com/frc5190/FRC%202018%20Power%20Up/_build/results?buildId=3&view=results) and gradle to do CI.
 
 ## Scouting
 
