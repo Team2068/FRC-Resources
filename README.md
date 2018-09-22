@@ -173,6 +173,7 @@ Practice like you compete.
 ## Resources of Resources
 
 - [awesome frc](https://github.com/andrewda/awesome-frc) is a list in the "[awesome](https://github.com/sindresorhus/awesome)" style for FRC.
+- [frc.link](http://frc.link/) is a mnemonic shortener to help you get to e.g. a team's profile page on the official FRC website by a direct, logical link (http://frc.link/t/2068) instead of navigating through a ton of menus.
 
 ### Markdown and Related Tools
 
