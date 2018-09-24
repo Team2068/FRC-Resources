@@ -171,8 +171,19 @@ Practice like you compete.
 - [Onboarding Programmers](https://github.com/Team997Coders/TrainingResources) links to a [presentation](https://gitpitch.com/Team997Coders/BootCamp/master?grs=github&t=sky) that Team 997 uses to onboard their coders.  They use gradle and [VS Code](https://code.visualstudio.com/) as their development platform of choice.
 - [FRC Team 3255's Java Tutorial](https://github.com/FRCTeam3255/FRC-Java-Tutorial) links to a presentation explaining how to code FRC solutions in Java using VS Code.
 
+## Branding
+
+[FRC Team 1538's Brand Standards](http://www.team1538.com/downloads/2015BrandStandards.pdf) is a huge resource on brand and design. It covers:
+
+- Typography
+- Logos
+- Colors
+- Dress Codes
+- Design of print assets
+
 ## Resources of Resources
 
+- [Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) "This manual intends to cover some of the more fine points of FRC, that may not be apparent to the casual viewer, first time student or mentor. Document worked on by Teams 1257, 2791, 1228, 4263, 612, 4150, and 5940 as well as members of the FRC Discord Server."
 - [awesome frc](https://github.com/andrewda/awesome-frc) is a list in the "[awesome](https://github.com/sindresorhus/awesome)" style for FRC.
 - [frc.link](http://frc.link/) is a mnemonic shortener to help you get to e.g. a team's profile page on the official FRC website by a direct, logical link (http://frc.link/t/2068) instead of navigating through a ton of menus.
 
